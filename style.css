@@ -1,0 +1,22 @@
+input{
+   margin: 15px 0px 15px 5px;
+    padding: 5px 10px;
+}
+label{
+    margin-left: 10px;
+}
+
+#tab{
+    margin-left:auto;
+    margin-right: auto;
+    border: solid 5px rgb(25, 62, 99);
+}
+td{
+    border: solid 1px rgb(84, 186, 199);
+}
+#button{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
