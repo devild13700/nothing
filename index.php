@@ -42,6 +42,8 @@
     </table>
     <div id="button">
         <input type="submit" name="submit" id="submit" value="Register" />
+        <label><a href="/student/login.php">Login</a></label>
+        
     </div>
     </form>
 </body>
